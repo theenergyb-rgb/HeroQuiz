@@ -4,5 +4,3 @@ Este repositorio guarda el **contenido** del juego (imágenes y niveles) para ca
 ## Estructura
 ```
 /images        -> Imágenes de los niveles
-
-
