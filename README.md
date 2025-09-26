@@ -6,4 +6,3 @@ Este repositorio guarda el **contenido** del juego (imágenes y niveles) para ca
 /images        -> Imágenes de los niveles
 
 
-> Nota legal: reemplaza las imágenes por arte propio o con permisos. Evita usar IP con copyright sin autorización.
